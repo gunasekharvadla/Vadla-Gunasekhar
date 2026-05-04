@@ -2,7 +2,7 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
-║     CLOUD · DEVOPS · AI INFRASTRUCTURE · LINUX · MLOps      ║
+║     CLOUD · DEVOPS · AI INFRASTRUCTURE · LINUX · MLOps       ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
