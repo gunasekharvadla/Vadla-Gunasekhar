@@ -2,19 +2,19 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
-║        AI INFRASTRUCTURE · SYSTEMS AT SCALE · DEVOPS         ║
+║     CLOUD · DEVOPS · AI INFRASTRUCTURE · LINUX · MLOps      ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-# Vadla Gunasekhar
+<h1>Vadla Gunasekhar</h1>
 
-**AI Infrastructure Engineer · 5 Years Building the Backbone of Intelligence**
+**Aspiring AI Infrastructure & DevOps Engineer**
+**AWS · Kubernetes · Linux · MLOps · Bengaluru, India**
 
-*Bengaluru, India*
-
-[![Email](https://img.shields.io/badge/gunasekharvadla%40gmail.com-0a0a0a?style=flat-square&logo=gmail&logoColor=white)](mailto:gunasekharvadla@gmail.com)
-[![TopCoder](https://img.shields.io/badge/TopCoder-Profile-EF3B2C?style=flat-square&logo=topcoder&logoColor=white)](https://www.topcoder.com/members/515004)
-[![Profile Views](https://komarev.com/ghpvc/?username=gunasekharvadla&color=0a0a0a&style=flat-square&label=PROFILE+VIEWS)](https://github.com/gunasekharvadla)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-HERE)
+[![Email](https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gunasekharvadla@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gunasekharvadla)
+[![Profile Views](https://komarev.com/ghpvc/?username=gunasekharvadla&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/gunasekharvadla)
 
 </div>
 
@@ -23,70 +23,111 @@
 ## `$ whoami`
 
 ```yaml
-name: Vadla Gunasekhar
-role: AI Infrastructure Engineer
-experience: 5 years
-location: Bengaluru, India
-focus:
-  - Scalable AI/ML infrastructure design & deployment
-  - Kubernetes-native ML pipelines
-  - Cloud-native DevOps at scale
-  - GPU cluster orchestration & optimization
-currently_learning:
-  - OpenShift enterprise container platform
-  - Distributed storage systems (Ceph, Rook)
-open_to: AI Infrastructure collaborations & DevOps consulting
+name        : Vadla Gunasekhar
+role        : Aspiring AI Infrastructure & DevOps Engineer
+location    : Bengaluru, India
+mission     : Build the infrastructure that powers AI at scale
+
+currently_building:
+  - 35-Day AWS DevOps Mastery Series        # Daily commits, real-world examples
+  - Linux for DevOps Handbook               # Commands, scripting, sysadmin
+  - Python automation scripts for DevOps    # Zero-to-hero series
+
+learning_path:
+  - Linux & Shell Scripting       ████████░░  80%
+  - AWS Cloud Services            ████░░░░░░  40%  ← Active
+  - Docker & Containers           ██████░░░░  60%
+  - Kubernetes (K8s)              ███░░░░░░░  30%
+  - Terraform / IaC               ██░░░░░░░░  20%
+  - MLOps & AI Infrastructure     █░░░░░░░░░  10%  ← Goal
+
+goal        : Junior DevOps Engineer → Senior AI Infrastructure Engineer
+open_to     : AI Infrastructure Engineer · MLOps Engineer · Collaborations
 ```
+
+---
+
+## `$ cat ./roadmap.md`
+
+### 🗺️ My Journey — Basics to AI Infra Engineer
+
+```
+TODAY                                                               GOAL
+  │                                                                  │
+  ▼                                                                  ▼
+Linux ──► AWS ──► Docker ──► K8s ──► IaC ──► CI/CD ──► MLOps ──► AI Infra
+  ✅        🟡       🟡         ⬜       ⬜       ⬜        ⬜         ⬜
+```
+
+| Stage | Topics | Status |
+|-------|--------|--------|
+| 🟢 **Stage 1** | Linux, Bash, Git, Networking basics | ✅ Done |
+| 🟡 **Stage 2** | AWS 35-Day Series (EC2→Lambda→EKS) | 🔄 In Progress |
+| ⬜ **Stage 3** | Docker, Kubernetes, Helm | 🔜 Next |
+| ⬜ **Stage 4** | Terraform, CloudFormation, IaC | 🔜 Upcoming |
+| ⬜ **Stage 5** | CI/CD — Jenkins, GitHub Actions, ArgoCD | 🔜 Upcoming |
+| ⬜ **Stage 6** | Monitoring — Prometheus, Grafana, CloudWatch | 🔜 Upcoming |
+| ⬜ **Stage 7** | MLOps — Kubeflow, MLflow, model serving | 🔜 Upcoming |
+| ⬜ **Stage 8** | AI Infrastructure — GPU clusters, LLM deployment | 🎯 End Goal |
+
+---
+
+## `$ ls ./active-projects`
+
+### 📂 What I'm Building Right Now
+
+| Repository | Description | Status |
+|-----------|-------------|--------|
+| [☁️ Aws-For-DevOps](https://github.com/gunasekharvadla/Aws-For-DevOps) | 35-day AWS mastery — CLI commands, diagrams, production issues | 🔄 Active |
+| [🐧 Linux-for-devops](https://github.com/gunasekharvadla/Linux-for-devops) | Linux commands handbook for DevOps engineers | 🔄 Active |
+| [🐍 Python-zero-hero](https://github.com/gunasekharvadla/Python-zero-hero) | Python from scratch for DevOps automation | 🔄 Active |
+| [📖 git-command-handbook](https://github.com/gunasekharvadla/git-command-handbook) | Git commands reference for daily DevOps use | ✅ Done |
 
 ---
 
 ## `$ cat expertise.md`
 
-### ⚡ Core Domains
+### ⚡ Building Skills In
 
-| Domain | What I Build |
-|--------|-------------|
-| **AI/ML Infrastructure** | End-to-end ML pipelines, model serving at scale, training cluster orchestration |
-| **Container Orchestration** | Production-grade Kubernetes clusters, Helm charts, OpenShift workloads |
-| **Cloud Platforms** | Multi-cloud architectures on AWS & Azure, cost-optimized infra design |
-| **CI/CD Automation** | Jenkins, CircleCI, TravisCI pipelines — zero-downtime deployments |
-| **Observability** | Distributed tracing, metrics, alerting for ML workloads |
+| Domain | What I'm Learning | Target Role |
+|--------|------------------|-------------|
+| **AWS Cloud** | EC2, S3, VPC, IAM, Lambda, EKS, RDS | Cloud/DevOps Engineer |
+| **Linux & Shell** | File systems, processes, networking, bash | SRE / DevOps Engineer |
+| **Containers** | Docker → Kubernetes → Helm → OpenShift | Platform Engineer |
+| **IaC** | Terraform, CloudFormation, Ansible | DevOps / Infra Engineer |
+| **MLOps** | Model pipelines, Kubeflow, model serving | AI Infra Engineer |
+| **Observability** | Prometheus, Grafana, CloudWatch, ELK | SRE / AI Infra Engineer |
 
 ---
 
 ## `$ ls -la ./tech-stack`
 
-### Cloud & Orchestration
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+### ☁️ Cloud & Infrastructure
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Vagrant](https://img.shields.io/badge/Vagrant-1868F2?style=flat-square&logo=vagrant&logoColor=white)
 
-### AI/ML Frameworks
+### 🤖 AI/ML & MLOps (Learning)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
 
-### Languages
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-
-### CI/CD & DevOps
+### 🔄 CI/CD & DevOps
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=flat-square&logo=circleci&logoColor=white)
-![TravisCI](https://img.shields.io/badge/Travis_CI-3EAAAF?style=flat-square&logo=travisci&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+### 💻 Languages & Scripting
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white)
+
+### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 ---
 
@@ -100,33 +141,65 @@ open_to: AI Infrastructure collaborations & DevOps consulting
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=gunasekharvadla&theme=dark&background=0d1117&border=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)](https://github.com/gunasekharvadla)
 
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gunasekharvadla&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 </div>
+
+---
+
+## `$ cat /etc/certifications`
+
+```yaml
+pursuing:
+  - AWS Cloud Practitioner (CLF-C02)            # Target: Q3 2026
+  - AWS Solutions Architect Associate (SAA-C03) # Target: Q4 2026
+
+planned:
+  - Certified Kubernetes Administrator (CKA)    # 2027
+  - HashiCorp Terraform Associate               # 2027
+  - Google Professional MLOps Engineer          # 2027 — AI Infra path
+```
 
 ---
 
 ## `$ cat /etc/philosophy`
 
-> *"Infrastructure is the silent enabler of AI — every model that ships, every experiment that trains, every prediction that reaches a user, rides on the systems we build. I'm here to make that foundation unbreakable."*
+> *"AI models don't run on magic — they run on infrastructure. I'm learning to build
+> the systems that power the next generation of intelligent applications.
+> Every commit today is a step toward the infrastructure engineer I'm becoming."*
 
 ---
 
 ## `$ cat CONTRIBUTING.md`
 
-- 🔭 Currently deepening expertise in **OpenShift** and **distributed storage systems**
-- 🤝 Open to collaborating on **AI Infrastructure**, **MLOps**, and **cloud-native DevOps** projects
-- 💬 Ask me about **Kubernetes**, **ML pipelines**, **CI/CD architecture**, or anything **DevOps**
-- ⚡ Fun fact: I'm convinced my YAML is funnier than most people's stand-up sets
+- 🚀 On a **35-day AWS deep dive** — pushing real examples daily with CLI, diagrams & prod issues
+- 🐧 Building a **Linux for DevOps handbook** — the real commands DevOps engineers use every day
+- 🎯 Long-term goal: **AI Infrastructure Engineer** — GPU clusters, LLM deployment, MLOps at scale
+- 🤝 Open to collaborating on **DevOps automation**, **cloud projects**, and **open source**
+- 💬 Ask me about **Linux**, **AWS basics**, **Git**, **Python scripting**, or **DevOps learning paths**
+- ⚡ Fun fact: I debug YAML indentation errors faster than most people debug their feelings
 
 ---
+
+## `$ curl --connect linkedin`
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gunasekharvadla&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+| 💼 LinkedIn | 📧 Email | 🐙 GitHub |
+|------------|---------|---------|
+| [Connect with me](https://linkedin.com/in/YOUR-LINKEDIN-HERE) | gunasekharvadla@gmail.com | [github.com/gunasekharvadla](https://github.com/gunasekharvadla) |
 
----
+<br>
 
-*Built with precision. Deployed with confidence.*
+**⭐ If my learning repos helped you — drop a star, it keeps me going!**
 
-`uptime: 5 years // incidents resolved: countless // coffee consumed: ∞`
+*Learning in public · Committing every day · Building toward AI Infrastructure*
+
+```
+status    : learning
+direction : DevOps → Cloud → MLOps → AI Infrastructure
+eta       : one commit at a time
+quit      : false
+```
 
 </div>
