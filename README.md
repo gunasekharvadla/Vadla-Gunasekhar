@@ -52,18 +52,18 @@ open_to     : AI Infrastructure Engineer · MLOps Engineer · Collaborations
 ### 🗺️ My Journey — Basics to AI Infra Engineer
 
 ```
-TODAY                                                               GOAL
-  │                                                                  │
-  ▼                                                                  ▼
+                            TODAY                                                            
+                              │                                     GOAL                                    
+                              ▼                                      │                  
 Linux ──► AWS ──► Docker ──► K8s ──► IaC ──► CI/CD ──► MLOps ──► AI Infra
-  ✅        🟡       🟡         ⬜       ⬜       ⬜        ⬜         ⬜
+  ✅         ✅       ✅         ⬜       ⬜       ⬜           ⬜         
 ```
 
 | Stage | Topics | Status |
 |-------|--------|--------|
 | 🟢 **Stage 1** | Linux, Bash, Git, Networking basics | ✅ Done |
-| 🟡 **Stage 2** | AWS 35-Day Series (EC2→Lambda→EKS) | 🔄 In Progress |
-| ⬜ **Stage 3** | Docker, Kubernetes, Helm | 🔜 Next |
+| 🟢**Stage 2** | AWS 35-Day Series (EC2→Lambda→EKS) | ✅ Done |
+| ⬜ **Stage 3** | Docker, Kubernetes, Helm | 🔄 In Progress  |
 | ⬜ **Stage 4** | Terraform, CloudFormation, IaC | 🔜 Upcoming |
 | ⬜ **Stage 5** | CI/CD — Jenkins, GitHub Actions, ArgoCD | 🔜 Upcoming |
 | ⬜ **Stage 6** | Monitoring — Prometheus, Grafana, CloudWatch | 🔜 Upcoming |
